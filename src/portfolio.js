@@ -10,7 +10,7 @@ const about = {
   role: 'Software and App Developer',
   description:
     'Professional Developer based in London, UK with industrial experience. I enjoy challenging tasks and always aim to achieve creativity and logic',
-  resume: 'https://amber-brooks-11.tiiny.site/',
+  resume: 'moccasin-salomi-98.tiiny.site',
   social: {
     linkedin: 'https://www.linkedin.com/in/sammy-soudan/',
     github: 'https://github.com/mrsammysoudan',
