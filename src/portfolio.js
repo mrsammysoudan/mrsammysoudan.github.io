@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rjshkhr.github.io/cleanfolio',
+  homepage: 'https://mrsammysoudan.github.io',
   title: 'SS.',
 }
 
@@ -10,10 +10,10 @@ const about = {
   role: 'Software and App Developer',
   description:
     'Professional Developer based in London, UK with industrial experience. I enjoy challenging tasks and always aim to achieve creativity and logic',
-  resume: 'https://example.com',
+  resume: 'https://amber-brooks-11.tiiny.site/',
   social: {
     linkedin: 'https://www.linkedin.com/in/sammy-soudan/',
-    github: 'https://github.com',
+    github: 'https://github.com/mrsammysoudan',
   },
 }
 
