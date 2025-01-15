@@ -10,7 +10,7 @@ const about = {
   role: 'Software and App Developer',
   description:
     'Professional Developer based in London, UK with industrial experience. I enjoy challenging tasks and always aim to achieve creativity and logic',
-  resume: 'https://moccasin-salomi-98.tiiny.site',
+  resume: 'https://moccasin-lizzy-6.tiiny.site',
   social: {
     linkedin: 'https://www.linkedin.com/in/sammy-soudan/',
     github: 'https://github.com/mrsammysoudan',
@@ -26,7 +26,10 @@ const projects = [
       'Founded Dishify, an app that uses AI and image recognition to create recipes based on ingredients',
     stack: [
       'Flutter',
-      'Laravell',
+      'Dart',
+      'Firebase',
+      'OAuth',
+      'Laravel',
       'Python',
       'TensorFlow',
       'Jetpack Compose',
@@ -68,7 +71,10 @@ const skills = [
   'TypeScript',
   'React',
   'Flutter',
-  'Laravell',
+  'Dart',
+  'OAuth',
+  'Firebase',
+  'Laravel',
   'Figma',
   'Git',
   'Node',
