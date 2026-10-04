@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrsammysoudan.github.io/sitemap.xml
